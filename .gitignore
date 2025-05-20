@@ -1,0 +1,17 @@
+# Visual Studio temporary files, build results
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Build logs
+*.log
+
+# Resharper and Rider
+.idea/
+*.DotSettings.user
